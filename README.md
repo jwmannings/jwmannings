@@ -2,6 +2,16 @@
 
 [![email](https://img.shields.io/badge/-@jerry.mannings@gmail.com-313131?style=flat-square&labelColor=313131&logo=gmail&logoColor=white&color=313131)](mailto:jerry.mannings@gmail.com)  
 [![linkedin](https://img.shields.io/badge/-@jwmannings-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/oasdasdasdasd/)  
+[![website](https://img.shields.io/badge/-@Website-313131?style=flat-square&labelColor=313131&logo=Edge&logoColor=white&color=313131)](aispecialist.ai/)  
 
-Passionate about **Data Science**. I like to write code, design architectures and lead software teams <br>
+Passionate about **Data Science**. I like to write code, blog, design architectures and lead software teams <br>
 **Scroll down!**
+
+<h3 align="center"><a href="https://aispecialist.ai/"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a> Latest AI Specialist Articles <a href="https://aispecialist.ai/"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a></h3>
+
+
+<!-- ARTICLES:START -->
+- [Why you need to drive business value in your organisation for successful Data Science](https://aispecialist.ai/2020/09/why-you-need-to-drive-business-value-in-your-organisation-for-successful-data-science/)
+- [Starting with Data Science on the cloud – where do I start?](https://aispecialist.ai/2020/04/starting-with-data-science-on-the-cloud-where-do-i-start/)
+- [Transitioning and Changing Careers – Getting into Data Science & AI](https://aispecialist.ai/2020/02/transitioning-and-changing-careers-getting-into-data-science-ai/)
+<!-- ARTICLES:END -->
