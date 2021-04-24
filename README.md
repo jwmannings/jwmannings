@@ -7,7 +7,7 @@
 Passionate about **Data Science**. I like to write code, blog, design architectures and lead software teams <br>
 **Scroll down!**
 
-<h3 align="center"><a href="https://aispecialist.ai/"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a> Latest AI Specialist Articles <a href="https://aispecialist.ai/"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a></h3>
+<h3 align="center">/a> Latest AI Specialist Articles <a href="https://aispecialist.ai/"></a></h3>
 
 
 <!-- ARTICLES:START -->
