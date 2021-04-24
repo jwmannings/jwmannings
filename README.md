@@ -5,7 +5,8 @@
 [![website](https://img.shields.io/badge/-@Website-313131?style=flat-square&labelColor=313131&logo=Edge&logoColor=white&color=313131)](aispecialist.ai/)  
 
 Passionate about **Data Science**. I like to write code, blog, design architectures and lead software teams <br>
-**Scroll down!**
+
+<br>
 
 <h3 align="center">Latest AI Specialist Articles <a href="https://aispecialist.ai/"></a></h3>
 
@@ -15,3 +16,5 @@ Passionate about **Data Science**. I like to write code, blog, design architectu
 - [Starting with Data Science on the cloud – where do I start?](https://aispecialist.ai/2020/04/starting-with-data-science-on-the-cloud-where-do-i-start/)
 - [Transitioning and Changing Careers – Getting into Data Science & AI](https://aispecialist.ai/2020/02/transitioning-and-changing-careers-getting-into-data-science-ai/)
 <!-- ARTICLES:END -->
+<br>
+**Scroll down!**
