@@ -16,5 +16,5 @@ Passionate about **Data Science**. I like to write code, blog, design architectu
 - [Starting with Data Science on the cloud – where do I start?](https://aispecialist.ai/2020/04/starting-with-data-science-on-the-cloud-where-do-i-start/)
 - [Transitioning and Changing Careers – Getting into Data Science & AI](https://aispecialist.ai/2020/02/transitioning-and-changing-careers-getting-into-data-science-ai/)
 <!-- ARTICLES:END -->
-
+<br>
 **Scroll down!**
