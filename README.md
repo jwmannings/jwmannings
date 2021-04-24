@@ -17,4 +17,5 @@ Passionate about **Data Science**. I like to write code, blog, design architectu
 - [Transitioning and Changing Careers – Getting into Data Science & AI](https://aispecialist.ai/2020/02/transitioning-and-changing-careers-getting-into-data-science-ai/)
 <!-- ARTICLES:END -->
 <br>
+</br>
 **Scroll down!**
