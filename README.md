@@ -6,7 +6,7 @@
 [![linkedin](https://img.shields.io/badge/-@LinkedIn-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ai-specialist-data-science/)
 [![website](https://img.shields.io/badge/-@AISpecialist-313131?style=flat-square&labelColor=313131&logo=Python&logoColor=white&color=313131)](aispecialist.ai/)  
 
-Passionate about **Data Science**. I like to write code, blog, design architectures and lead software teams <br>
+Passionate about Data Science. I like to write code, blog, design architectures and lead software teams <br>
 
 <br>
 
