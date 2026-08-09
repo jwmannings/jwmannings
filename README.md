@@ -5,9 +5,10 @@
 **Building Enterprise AI Adoption, researching LLM mechanistic interpretability, running the Melbourne AI Community in between.**
 
 [![email](https://img.shields.io/badge/-jerry.mannings@gmail.com-0A1628?style=flat-square&labelColor=0A1628&logo=gmail&logoColor=F4EEDF&color=0A1628)](mailto:jerry.mannings@gmail.com)
-[![linkedin](https://img.shields.io/badge/-LinkedIn-0A1628?style=flat-square&labelColor=0A1628&logo=LinkedIn&logoColor=F4EEDF&color=0A1628)](https://www.linkedin.com/in/ai-specialist-data-science/)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0A1628?style=flat-square&labelColor=0A1628&logo=LinkedIn&logoColor=F4EEDF&color=0A1628)](https://au.linkedin.com/in/jmannings)
+[![promptleash](https://img.shields.io/badge/-mainlobe.sh-0A1628?style=flat-square&labelColor=0A1628&logo=hackthebox&logoColor=A05A2C&color=0A1628)](https://promptleash.ai)
 [![mainlobe](https://img.shields.io/badge/-mainlobe.sh-0A1628?style=flat-square&labelColor=0A1628&logo=hackthebox&logoColor=A05A2C&color=0A1628)](https://mainlobe.sh)
-[![melbourne ai](https://img.shields.io/badge/-Melbourne%20AI-0A1628?style=flat-square&labelColor=0A1628&logo=meetup&logoColor=F4EEDF&color=0A1628)](https://www.linkedin.com/in/ai-specialist-data-science/)
+[![melbourne ai](https://img.shields.io/badge/-Melbourne%20AI-0A1628?style=flat-square&labelColor=0A1628&logo=meetup&logoColor=F4EEDF&color=0A1628)](https://melb-ai.com/)
 
 <br clear="left"/>
 
