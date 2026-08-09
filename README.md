@@ -1,24 +1,57 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" width="130" src="https://orhun.dev/img/crow.png">
 
-[//]: # (<img align="left" src="dp_pixel2.png" height="350">)
+### Jeremiah Mannings
 
-[![email](https://img.shields.io/badge/-@jerry.mannings@gmail.com-313131?style=flat-square&labelColor=313131&logo=gmail&logoColor=white&color=313131)](mailto:jerry.mannings@gmail.com)  
-[![linkedin](https://img.shields.io/badge/-@LinkedIn-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ai-specialist-data-science/)
-[![website](https://img.shields.io/badge/-@AISpecialist-313131?style=flat-square&labelColor=313131&logo=Python&logoColor=white&color=313131)](aispecialist.ai/)  
+**Building Enterprise AI Adoption, researching LLM mechanistic interpretability, running the Melbourne AI Community in between.**
 
-Passionate about Data Science. I like to write code, blog, design architectures and lead software teams <br>
+[![email](https://img.shields.io/badge/-jerry.mannings@gmail.com-0A1628?style=flat-square&labelColor=0A1628&logo=gmail&logoColor=F4EEDF&color=0A1628)](mailto:jerry.mannings@gmail.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0A1628?style=flat-square&labelColor=0A1628&logo=LinkedIn&logoColor=F4EEDF&color=0A1628)](https://www.linkedin.com/in/ai-specialist-data-science/)
+[![mainlobe](https://img.shields.io/badge/-mainlobe.sh-0A1628?style=flat-square&labelColor=0A1628&logo=hackthebox&logoColor=A05A2C&color=0A1628)](https://mainlobe.sh)
+[![melbourne ai](https://img.shields.io/badge/-Melbourne%20AI-0A1628?style=flat-square&labelColor=0A1628&logo=meetup&logoColor=F4EEDF&color=0A1628)](https://www.linkedin.com/in/ai-specialist-data-science/)
 
-<br>
+<br clear="left"/>
 
-<h3 align="center">Latest AI Specialist Articles <a href="https://aispecialist.ai/"></a></h3>
+```
+> whoami
+founder @ Solon        building PromptLeash
+research @ Main Lobe   mainlobe.sh
+convening @ Melbourne AI   7,400+ practitioners
+based   North Melbourne, AU
+```
 
+---
 
-<!-- ARTICLES:START -->
-- [Why you need to drive business value in your organisation for successful Data Science](https://aispecialist.ai/2020/09/why-you-need-to-drive-business-value-in-your-organisation-for-successful-data-science/)
-- [Starting with Data Science on the cloud – where do I start?](https://aispecialist.ai/2020/04/starting-with-data-science-on-the-cloud-where-do-i-start/)
-- [Transitioning and Changing Careers – Getting into Data Science & AI](https://aispecialist.ai/2020/02/transitioning-and-changing-careers-getting-into-data-science-ai/)
-<!-- ARTICLES:END -->
-<br>
-</br>
+### What I'm building
 
-[//]: # (**Scroll down!**)
+**🔒 [PromptLeash](https://mainlobe.sh)** &nbsp;·&nbsp; *enterprise AI governance, by Solon*
+Most enterprises can tell you what AI costs them. Almost none can tell you what it returns.
+PromptLeash measures that. The **Solon Score** is a composite of quality, cost efficiency,
+compliance and breadth, and it turns "we rolled out Copilot" into an actual number a board
+can act on. Deploys offline and log-based, inside your environment, nothing leaves the
+perimeter. Design partners across Australian banking and insurance. Antler W26, preseed closed.
+
+> Thesis: intelligence is an asset class. Value it, allocate it, govern it. **Return on Intelligence.**
+
+**🧠 [Main Lobe Labs](https://mainlobe.sh)** &nbsp;·&nbsp; *independent LLM research, Melbourne*
+> *Maximum energy in one direction. Deliberate nulls everywhere else.*
+
+Small lab, narrow beam. Mechanistic questions about compression and memorisation, published
+with code and controls. No frontier pretraining, no roadmap, no benchmark chasing.
+
+<!-- RESEARCH:START -->
+- **[Measured Pruning Damage Depends on the Evaluation Corpus](https://mainlobe.sh)** (Aug 2026) · a renaming control for MoE expert pruning. Turns out ~1.6x of the reported damage was memorisation, not capability.
+- **[Wave Convergence Thinking](https://mainlobe.sh)** (Jul 2026) · run the prompt across multiple architectures in parallel, treat cross-architecture agreement as a reasoning quality signal.
+<!-- RESEARCH:END -->
+
+**🦘 Melbourne AI** &nbsp;·&nbsp; *7,400+ builders, founders and practitioners*
+The community I started because Melbourne needed a room where people who actually ship AI
+could find each other. Not a vendor pitch, not a webinar funnel. Practitioners only.
+
+---
+
+### Previously
+
+Senior Director @ Capgemini Invent · Director @ PwC · CDO @ Uniting NSW.ACT
+GAICD · BEng (Hons I) · Master of Leadership
+
+<sub>Open to conversations about enterprise AI governance, interpretability research, and anyone doing interesting work in Melbourne.</sub>
