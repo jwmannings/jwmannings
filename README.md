@@ -23,7 +23,7 @@ based   North Melbourne, AU
 
 ### What I'm building
 
-**[PromptLeash](https://promptleash.ai)** &nbsp;·&nbsp; *enterprise AI governance, by Solon*
+**[PromptLeash](https://promptleash.ai)** &nbsp;&nbsp; *enterprise AI governance, by Solon*
 Most enterprises can tell you what AI costs them. Almost none can tell you what it returns.
 PromptLeash measures that. The **Solon Score** is a composite of quality, cost efficiency,
 compliance and breadth, and it turns "we rolled out Copilot" into an actual number a board
@@ -32,7 +32,7 @@ perimeter. Design partners across Australian banking and insurance. Antler W26, 
 
 > Thesis: intelligence is an asset class. Value it, allocate it, govern it. **Return on Intelligence.**
 
-**[Main Lobe Labs](https://mainlobe.sh)** &nbsp;·&nbsp; *independent LLM research, Melbourne*
+**[Main Lobe Labs](https://mainlobe.sh)** &nbsp;&nbsp; *independent LLM research, Melbourne*
 > *Maximum energy in one direction. Deliberate nulls everywhere else.*
 
 We tackle mechanistic questions about compression and memorisation, published
@@ -43,7 +43,7 @@ with code and controls.
 - **[Wave Convergence Thinking](https://mainlobe.sh)** (Jul 2026) · run the prompt across multiple architectures in parallel, treat cross-architecture agreement as a reasoning quality signal.
 <!-- RESEARCH:END -->
 
-**[Melbourne AI](https://melb-ai.com)** &nbsp;·&nbsp; *7,400+ builders, founders and practitioners*
+**[Melbourne AI](https://melb-ai.com)** &nbsp;&nbsp; *7,400+ builders, founders and practitioners*
 The community I started because Melbourne needed a room where people who actually ship AI
 could find each other.
 
