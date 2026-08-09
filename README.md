@@ -13,7 +13,7 @@
 
 ```
 > whoami
-founder @ Solon        building PromptLeash
+founder @ Promptleash        promptleash.ai
 research @ Main Lobe   mainlobe.sh
 convening @ Melbourne AI   7,400+ practitioners
 based   North Melbourne, AU
