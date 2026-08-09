@@ -43,7 +43,7 @@ with code and controls.
 - **[Wave Convergence Thinking](https://mainlobe.sh)** (Jul 2026) · run the prompt across multiple architectures in parallel, treat cross-architecture agreement as a reasoning quality signal.
 <!-- RESEARCH:END -->
 
-**[Melbourne AI](https://melb-ai.com** &nbsp;·&nbsp; *7,400+ builders, founders and practitioners*
+**[Melbourne AI](https://melb-ai.com)** &nbsp;·&nbsp; *7,400+ builders, founders and practitioners*
 The community I started because Melbourne needed a room where people who actually ship AI
 could find each other.
 
